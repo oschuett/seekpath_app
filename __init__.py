@@ -3,6 +3,6 @@
 # Some package meta-data
    
 def get_app_notebooks():
-    return {'SeeK-path': 'seekpath.ipynb'}
+    return [ {'name':'SeeK-path', 'notebook':'seekpath.ipynb'},]
     
 #EOF
